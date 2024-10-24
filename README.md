@@ -31,7 +31,7 @@ This project is built using the following technologies:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ayuugoyal/ruleengine.git
+    git clone https://github.com/dineshreddie/RuleEngine-with-AST.git
     cd ruleengine
     ```
 
